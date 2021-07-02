@@ -1,0 +1,54 @@
+{
+  "keywordFileContentHash": "451FE432C871041ED1EE3EA59DEF7F5F",
+  "keywordClasses": [
+    {
+      "name": "com.pagebody.pageorderhistory.PageOrderHistory",
+      "keywordMethods": [
+        {
+          "name": "findProductsOrderedGreaterThanTwo",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getInforProductsInOrder",
+          "parameters": [
+            {
+              "name": "informationProducts",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.HashMap",
+                "unresolvedClassName": "HashMap",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "com.saleor.utils.ProductsDetail",
+                    "unresolvedClassName": "ProductsDetail",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,72 @@
+{
+  "keywordFileContentHash": "4578E89C144991C410BE4A7C85385C6D",
+  "keywordClasses": [
+    {
+      "name": "com.pageheader.pagemenu.PageMenuRightLoginForm",
+      "keywordMethods": [
+        {
+          "name": "loginToSaleor",
+          "parameters": [
+            {
+              "name": "Email",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "PassWord",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "selectMainMenu",
+          "parameters": [
+            {
+              "name": "nameMenuOrderHistory",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "validate_Successfull_Login_Msg",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validate_Fail_Login_Msg",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

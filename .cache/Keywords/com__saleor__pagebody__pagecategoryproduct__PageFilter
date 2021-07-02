@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "214176F057E9F81DD0CC210DC84AF826",
+  "keywordClasses": [
+    {
+      "name": "com.saleor.pagebody.pagecategoryproduct.PageFilter",
+      "keywordMethods": [
+        {
+          "name": "clickSortingDropdown",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickMenuListFilter",
+          "parameters": [
+            {
+              "name": "index",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickFilter",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

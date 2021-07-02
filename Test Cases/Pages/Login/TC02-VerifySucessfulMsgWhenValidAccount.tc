@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-VerifySucessfulMsgWhenValidAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73f85f8b-04ef-4894-8f1c-237c7ac6ea4e</testCaseGuid>
+</TestCaseEntity>

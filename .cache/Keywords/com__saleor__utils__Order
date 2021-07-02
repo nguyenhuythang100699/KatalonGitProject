@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "92915E1F8D46E4369AEC1F5686BD0CDD",
+  "keywordClasses": [
+    {
+      "name": "com.saleor.utils.Order",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

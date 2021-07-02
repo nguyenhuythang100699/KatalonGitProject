@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-VerifyNotifyMsgWhenCartEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b50b7b3-1abd-414a-ae88-e7794d2b9171</testCaseGuid>
+</TestCaseEntity>

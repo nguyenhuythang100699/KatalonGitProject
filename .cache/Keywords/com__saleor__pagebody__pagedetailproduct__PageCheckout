@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "C65996C6255962FA8995E1EC74ED8BA9",
+  "keywordClasses": [
+    {
+      "name": "com.saleor.pagebody.pagedetailproduct.PageCheckout",
+      "keywordMethods": [
+        {
+          "name": "clickIconCloseCart",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyCartEmpty",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

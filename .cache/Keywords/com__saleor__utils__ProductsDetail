@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F17DE008A4C92D337143448FB726D5F6",
+  "keywordClasses": [
+    {
+      "name": "com.saleor.utils.ProductsDetail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

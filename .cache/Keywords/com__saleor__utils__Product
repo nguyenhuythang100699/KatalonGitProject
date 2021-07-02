@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "425DCAE1D618BED805E9F139BEF3377A",
+  "keywordClasses": [
+    {
+      "name": "com.saleor.utils.Product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

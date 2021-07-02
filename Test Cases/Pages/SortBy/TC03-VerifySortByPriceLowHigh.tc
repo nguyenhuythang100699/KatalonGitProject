@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-VerifySortByPriceLowHigh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b019e7e6-ff5a-41b3-b716-9046f391c35f</testCaseGuid>
+</TestCaseEntity>

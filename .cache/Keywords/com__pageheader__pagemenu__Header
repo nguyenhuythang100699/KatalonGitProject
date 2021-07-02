@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F9246CE48E0FBBBF90C28D5833A1037F",
+  "keywordClasses": [
+    {
+      "name": "com.pageheader.pagemenu.Header",
+      "keywordMethods": [
+        {
+          "name": "redirectToAdminLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
