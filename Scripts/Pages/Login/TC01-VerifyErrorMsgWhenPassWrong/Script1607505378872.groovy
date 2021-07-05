@@ -16,6 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser(GlobalVariable.OpenBrowser_URL)
-CustomKeywords.'com.pageheader.pagemenu.PageMenuRightLoginForm.loginToSaleor'('admin@example.com', 'admin')
+CustomKeywords.'com.pageheader.pagemenu.PageMenuRightLoginForm.loginToSaleor'('admin@example.com', 'admin1')
 CustomKeywords.'com.pageheader.pagemenu.PageMenuRightLoginForm.validate_Fail_Login_Msg'()
 WebUI.closeBrowser()
