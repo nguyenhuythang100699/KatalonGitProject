@@ -8,10 +8,8 @@ pipeline {
         }
         stage('test') {
             steps {
-                bat """
-	cd C:\\Users\\ACER\\Downloads\\Katalon_Studio_Engine_Windows_64-8.0.5
-        katalonc -noSplash -runMode=console -projectPath="C:\Users\ACER\Downloads\KatalonSealor\KatalonGitProject\Web Saleor.prj" -retry=0 -testSuitePath="Test Suites/Login" -executionProfile="default" -browserType="Firefox" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
-                """
+                bat '''cd C:\\Users\\ACER\\Downloads\\Katalon_Studio_Engine_Windows_64-8.0.5
+                katalonc -noSplash -runMode=console -projectPath="C:\\Users\\ACER\\Downloads\\KatalonSealor\\KatalonGitProject\\Web Saleor.prj" -retry=0 -testSuitePath="Test Suites/Login" -executionProfile="default" -browserType="Firefox" -apiKey="bd4e031b-2109-4190-9ed2-12b27ca6cebc" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'''
             }
         }
         stage('deploy') {
